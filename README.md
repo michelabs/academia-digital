@@ -1,5 +1,8 @@
 <h1>Conhecendo o Projeto Spring Data JPA na Prática </h1>
 <p> Sejam bem-vindos ao projeto de LAB <strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
+Obs.: Projeto copiado diretamente do repositório da instrutora do curso, com pequenas modificações a titulo de aprendizagem.<br>
+<a href="https://github.com/cami-la/academia-digital"> Repositório Original </a>. Obrigado pelos ensinanentos 
+<a href="https://www.linkedin.com/in/cami-la/"> Cami-la </a>.
 
 <h2>🎯 Objetivo do Projeto</h2>
 <p>Ao final deste projeto, o Dev irá conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
@@ -84,20 +87,6 @@ Indica qual é o lado inverso ou não dominante da relação.
 </ul>
 
 
-<h2> 🤝 Contribuindo </h2>
-
-Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
-saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
-
-Se possível:
-
-⭐️ Star o projeto
-
-🐛 Encontrar e relatar issues
-
-------------
-
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
 
 
 
